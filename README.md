@@ -2,7 +2,7 @@
 
 **Full-Stack Engineer** · Cybersecurity · AWS · Advanced Networks
 
-🌐 [sebadinator.com](https://sebadinator.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sebadinator) · ✉️ [seba@sebadinator.com](mailto:seba@sebadinator.com)
+🌐 [sebadinator.com](https://sebadinator.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sebadinator) · ✉️ [contacto@sebadinator.com](mailto:contacto@sebadinator.com)
 
 📍 Santiago, Chile (America/Santiago) · He/Him
 
